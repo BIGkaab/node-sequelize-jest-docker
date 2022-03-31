@@ -1,3 +1,3 @@
 let mu = 'XD';
 
-console.log(mu);
+console.log('mu => ', mu);
